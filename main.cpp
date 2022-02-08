@@ -1,6 +1,6 @@
 #include<iostream>
 
-main()
+int main()
 {
   std::cout << "test app" << std::endl;
   
